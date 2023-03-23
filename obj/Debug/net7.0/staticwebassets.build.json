@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gYttJTcc4Bt9cDr1sbQSMIaOK/PP2GQfnVgvxa4/Mm0=",
+  "Source": "KargoTakipApi",
+  "BasePath": "_content/KargoTakipApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
